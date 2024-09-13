@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mysimpleapplication">MySimpleApplication</string>
+    <string name="buttonOutputText">To Output</string>
+    <string name="buttonConsoleText">Practice\nOn Console</string>
+    <string name="output">OUTPUT:</string>
+</resources>
